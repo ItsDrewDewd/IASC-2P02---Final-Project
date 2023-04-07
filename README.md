@@ -12,6 +12,7 @@ class: IASC 2P02
 professor: Aaron Mauro
 school: Brock University
 date: 2023-07-04
+GitHub URL: https://github.com/ItsDrewDewd/IASC-2P02---Final-Project/blob/main/README.md
 ---
 
 # Abstract
@@ -111,6 +112,4 @@ date: 2023-07-04
     Sinclair, Stéfan, and Geoffrey Rockwell. “Researchers, Teachers, and Learners Seeing New Possibilities with Voyant Tools.” Tesl-Ej, Aug. 2020, http://tesl-ej.org/wordpress/issues/volume24/ej94/ej94m1/. 
 
     Tahayori, Bahman, et al. “Advanced Natural Language Processing Technique to Predict Patient Disposition Based on Emergency Triage Notes.” Emergency Medicine Australasia, 2020, pp. 480–484., https://doi.org/10.1111/1742-6723.13656. 
-
-
 
